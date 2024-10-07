@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oacreoQ8KMI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mshro\\Desktop\\e-commerce\\ECommerceAPI.Domain\\eCommerceAPI.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mshro\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.8\\microsoft.entityframeworkcore.abstractions.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

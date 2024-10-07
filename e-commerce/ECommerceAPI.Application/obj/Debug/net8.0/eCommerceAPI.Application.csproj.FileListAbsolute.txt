@@ -1,0 +1,15 @@
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Application\bin\Debug\net8.0\eCommerceAPI.Application.deps.json
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Application\bin\Debug\net8.0\eCommerceAPI.Application.dll
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Application\bin\Debug\net8.0\eCommerceAPI.Application.pdb
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Application\bin\Debug\net8.0\eCommerceAPI.Domain.dll
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Application\bin\Debug\net8.0\eCommerceAPI.Domain.pdb
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Application\obj\Debug\net8.0\eCommerceAPI.Application.csproj.AssemblyReference.cache
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Application\obj\Debug\net8.0\eCommerceAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Application\obj\Debug\net8.0\eCommerceAPI.Application.AssemblyInfoInputs.cache
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Application\obj\Debug\net8.0\eCommerceAPI.Application.AssemblyInfo.cs
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Application\obj\Debug\net8.0\eCommerceAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Application\obj\Debug\net8.0\eCommerc.815B91B5.Up2Date
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Application\obj\Debug\net8.0\eCommerceAPI.Application.dll
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Application\obj\Debug\net8.0\refint\eCommerceAPI.Application.dll
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Application\obj\Debug\net8.0\eCommerceAPI.Application.pdb
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Application\obj\Debug\net8.0\ref\eCommerceAPI.Application.dll

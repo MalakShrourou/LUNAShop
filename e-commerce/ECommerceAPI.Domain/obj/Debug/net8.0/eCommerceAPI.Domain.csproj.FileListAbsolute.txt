@@ -1,0 +1,12 @@
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Domain\bin\Debug\net8.0\eCommerceAPI.Domain.deps.json
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Domain\bin\Debug\net8.0\eCommerceAPI.Domain.dll
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Domain\bin\Debug\net8.0\eCommerceAPI.Domain.pdb
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Domain\obj\Debug\net8.0\eCommerceAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Domain\obj\Debug\net8.0\eCommerceAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Domain\obj\Debug\net8.0\eCommerceAPI.Domain.AssemblyInfo.cs
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Domain\obj\Debug\net8.0\eCommerceAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Domain\obj\Debug\net8.0\eCommerceAPI.Domain.dll
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Domain\obj\Debug\net8.0\refint\eCommerceAPI.Domain.dll
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Domain\obj\Debug\net8.0\eCommerceAPI.Domain.pdb
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Domain\obj\Debug\net8.0\ref\eCommerceAPI.Domain.dll
+C:\Users\mshro\Desktop\e-commerce\ECommerceAPI.Domain\obj\Debug\net8.0\eCommerceAPI.Domain.csproj.AssemblyReference.cache
